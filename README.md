@@ -104,8 +104,8 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=BayuSaputra&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/BayuSaputra?style=for-the-badge&color=blue&label=FOLLOWERS" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/BayuSaputra?style=for-the-badge&color=yellow&label=STARS" alt="Stars" />
+  <img src="https://img.shields.io/github/followers/BayuSaputra?style=for-the-badge&color=blue&label=FOLLOWERS&cacheSeconds=900" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/BayuSaputra?style=for-the-badge&color=yellow&label=STARS&cacheSeconds=900" alt="Stars" />
 </div>
 
 <div align="center">
