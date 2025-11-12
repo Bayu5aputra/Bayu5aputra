@@ -60,12 +60,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=BayuSaputra&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=BayuSaputra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=BayuSaputra&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BayuSaputra&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BayuSaputra&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=400&exclude_repo=BayuSaputra"/>
 </div>
 
 ---
@@ -104,8 +104,9 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=BayuSaputra&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/BayuSaputra?style=for-the-badge&color=blue&label=FOLLOWERS&cacheSeconds=900" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/BayuSaputra?style=for-the-badge&color=yellow&label=STARS&cacheSeconds=900" alt="Stars" />
+  
+  ![GitHub followers](https://img.shields.io/github/followers/BayuSaputra?style=for-the-badge&color=blue&label=FOLLOWERS)
+  ![GitHub User's stars](https://img.shields.io/github/stars/BayuSaputra?style=for-the-badge&color=yellow&label=STARS&affiliations=OWNER)
 </div>
 
 <div align="center">
