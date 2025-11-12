@@ -60,12 +60,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=BayuSaputra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=BayuSaputra&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bayu5aputra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=bayu5aputra&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BayuSaputra&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayu5aputra&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"/>
 </div>
 
 ---
@@ -103,10 +103,10 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=BayuSaputra&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=bayu5aputra&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
   
-  ![GitHub followers](https://img.shields.io/github/followers/BayuSaputra?style=for-the-badge&color=blue&label=FOLLOWERS)
-  ![GitHub User's stars](https://img.shields.io/github/stars/BayuSaputra?style=for-the-badge&color=yellow&label=STARS&affiliations=OWNER)
+  ![GitHub followers](https://img.shields.io/github/followers/bayu5aputra?style=for-the-badge&color=blue&label=FOLLOWERS)
+  ![GitHub User's stars](https://img.shields.io/github/stars/bayu5aputra?style=for-the-badge&color=yellow&label=STARS&affiliations=OWNER)
 </div>
 
 <div align="center">
@@ -114,21 +114,3 @@
 ### 💡 *"Building robust infrastructure, one line of code at a time"*
 
 </div>
-```
-
----
-
-## ✅ **LANGKAH PENTING - HARUS DILAKUKAN:**
-
-### **1. Ubah Repository ke PUBLIC** (Paling Penting!)
-```
-Buka setiap repository → Settings → Danger Zone → Change visibility → Public
-```
-
-### **2. Tunggu 24 Jam**
-GitHub perlu waktu untuk mengindeks ulang bahasa pemrograman.
-
-### **3. Clear Cache GitHub Stats**
-Buka link ini di browser:
-```
-https://github-readme-stats.vercel.app/api/top-langs/?username=BayuSaputra&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&cache_bust=123456
