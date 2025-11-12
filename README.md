@@ -65,7 +65,7 @@
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BayuSaputra&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=400&exclude_repo=BayuSaputra"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BayuSaputra&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"/>
 </div>
 
 ---
@@ -114,3 +114,21 @@
 ### 💡 *"Building robust infrastructure, one line of code at a time"*
 
 </div>
+```
+
+---
+
+## ✅ **LANGKAH PENTING - HARUS DILAKUKAN:**
+
+### **1. Ubah Repository ke PUBLIC** (Paling Penting!)
+```
+Buka setiap repository → Settings → Danger Zone → Change visibility → Public
+```
+
+### **2. Tunggu 24 Jam**
+GitHub perlu waktu untuk mengindeks ulang bahasa pemrograman.
+
+### **3. Clear Cache GitHub Stats**
+Buka link ini di browser:
+```
+https://github-readme-stats.vercel.app/api/top-langs/?username=BayuSaputra&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&cache_bust=123456
