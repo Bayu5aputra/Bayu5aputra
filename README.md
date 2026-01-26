@@ -60,7 +60,9 @@
 ## 📊 GitHub Stats
 
 ![bayu5aputra's Stats](https://github-readme-stats.vercel.app/api?username=bayu5aputra&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
 ![bayu5aputra's Streak](https://github-readme-streak-stats.herokuapp.com/?user=bayu5aputra&theme=vue-dark&hide_border=true)
+
 ![bayu5aputra's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bayu5aputra&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 ---
 
