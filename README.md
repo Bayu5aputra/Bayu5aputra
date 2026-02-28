@@ -47,13 +47,13 @@ I am currently working in IT Infrastructure at Sinar Mas Land, focusing on ATCS 
 ## GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=bayu5aputra&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bayu5aputra&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" />
 </p>
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bayu5aputra&theme=vue-dark&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=bayu5aputra&theme=vue-dark&hide_border=true" alt="GitHub streak" />
 </p>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayu5aputra&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Top languages" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bayu5aputra&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Top languages" />
 </p>
 
 ## Professional Experience
